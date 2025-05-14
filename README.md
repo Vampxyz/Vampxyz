@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="right" alt="" height="190px" src="./src/pixelart-purple.gif">
+<img align="right" alt="" height="190px" src="./src/pixelart purple.gif">
 
 <div style="text-align: center;" align="left">
 ⌜ 🔭 Actually I am learning NodeJS,<br><br>
