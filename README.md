@@ -1,24 +1,23 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=940&color=800080&width=435&lines=%E2%9C%A6+Welcome+to+my+profile+%E2%9C%A6;%C2%BB+Hello+World!+I+am+Ryhan+Nalbert+%C2%AB" alt="Typing SVG" />
+</a>
 
-## Bem-vindo(a) ao perfil de Ryhan Nalbert 😁
+<h2 align=center>» I'm a Full-Stack Developer Student! «</h2><br>
 
- <div>
-   <a href="https://github.com/Dayvson-Silva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayvsonSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayvsonsilva&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg ">
-</div>
- 
-<br>
- 
-### Um Desemvolvedor em formação Fullstack 
- 
-<div>
-  <a href="https://instagram.com/dayvsonsilva05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/username" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<div align="left">
+⌜ 🔭 Actually I am learning NodeJS,<br><br>
+⌜ 🎨 Today I am better on the front end,<br><br>
+⌜ 📫 Contact me at email: ryhannalbert@gmail.com<br>
+</div><br>
+
+### 🛠️ Skills
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/>
+  
+          
+</p>
