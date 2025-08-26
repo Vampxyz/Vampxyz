@@ -7,8 +7,8 @@
 <img align="right" alt="" height="170px" src="./src/rain.gif"><br>
 
 <div style="text-align: center;" align="left">
-⌜ 🔭 Actually I am learning NodeJS,<br><br>
-⌜ 🎨 Today I am better on the front end,<br><br>
+⌜ 🔭 Actually I am learning Flask<br><br>
+⌜ 🎨 Today I am better on the front end<br><br>
 ⌜ 📫 Contact me at email: ryhannalbert@gmail.com<br>
 </div><br>
 
@@ -20,7 +20,9 @@
 </div>
 
 <div style="text-align: center;" align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,tailwind,git,github,figma,mysql">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,tailwind">
+  <br><br>
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,figma,mysql,react,ts">
 </div><br>
 
 <div align="center">
