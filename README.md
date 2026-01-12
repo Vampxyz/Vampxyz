@@ -7,7 +7,7 @@
 <img align="right" alt="" height="170px" src="./src/rain.gif"><br>
 
 <div style="text-align: center;" align="left">
-⌜ 🔭 Actually I am learning Flask<br><br>
+⌜ 🔭 Actually I am learning React & Supabase<br><br>
 ⌜ 🎨 Today I am better on the front end<br><br>
 ⌜ 📫 Contact me at email: ryhannalbert@gmail.com<br>
 </div><br>
