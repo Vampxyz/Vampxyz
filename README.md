@@ -38,5 +38,9 @@
 #
 
 <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="./src/github-user-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./src/github-user-contribution.svg" />
   <img align="center" alt="github contribution grid snake animation" src="./src/github-user-contribution.svg">
+</picture>
+<picture>
 </picture>
